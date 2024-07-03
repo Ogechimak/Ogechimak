@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  My curiosity lead to how i started my journey as a Software Engineer/Developer. Technology excites because of ideas that comes alive with every line of code, it fuels my curiosity, challenges my creativity, and empowers me to contribute to something greater than myself. 
+  My curiosity lead to how i started my journey as a Software Engineer/Developer. Technology excites me because of the ideas that comes alive with every line of code, it fuels my curiosity, challenges my creativity, and empowers me to contribute to something greater than myself. 
 </p>
 <p>
   I love travelling as it is for me a form of learning, when it comes to official travelling, it gives me the opportunity to work in an environment different from what i am used to. At my leisure time, reading fantasy novels help me relax, also movie time with family is a fun time for me.
